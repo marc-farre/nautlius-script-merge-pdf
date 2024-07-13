@@ -1,4 +1,4 @@
-# A simple script to merge selected PDF in Ubuntu Nautilus file manager
+# A simple script to merge selected PDF files in Ubuntu Nautilus file manager
 
 This script will allow you to select multiple PDF files in Nautilus, right-click, and merge them into a single PDF file.
 
